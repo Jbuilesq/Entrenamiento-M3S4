@@ -1,0 +1,24 @@
+{
+  "name": "entrenamiento-m3s4",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jbuilesq/Entrenamiento-M3S4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jbuilesq/Entrenamiento-M3S4/issues"
+  },
+  "homepage": "https://github.com/Jbuilesq/Entrenamiento-M3S4#readme",
+  "description": "",
+  "dependencies": {
+    "vite": "^7.0.4"
+  }
+}
