@@ -10,13 +10,7 @@ document.getElementById('saveButton').addEventListener('click', () => {
         alert("El nombre no puede estar vacío.");
         return;
     }
-
-    // Validación: edad vacía
-    if (ageValue === "") {
-        alert("La edad no puede estar vacía.");
-        return;
-    }
-
+    
     // Validación de edad: no numérica
     if (isNaN(age)) {
         alert("La edad debe ser un número.");
